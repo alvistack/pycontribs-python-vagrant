@@ -1,0 +1,4 @@
+python-vagrant source: file-without-copyright-information
+python-vagrant source: no-debian-changes
+python-vagrant source: source-contains-prebuilt-windows-binary
+python-vagrant source: source-package-encodes-python-version
