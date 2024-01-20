@@ -1,0 +1,4 @@
+python3-vagrant: copyright-without-copyright-notice
+python3-vagrant: initial-upload-closes-no-bugs
+python3-vagrant: no-manual-page
+python3-vagrant: zero-byte-file-in-doc-directory
